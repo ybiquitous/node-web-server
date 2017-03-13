@@ -21,7 +21,7 @@ Open <http://localhost:3000>.
 $ yarn start
 ```
 
-## Lin
+## Lint
 
 ``` sh
 $ yarn lint
