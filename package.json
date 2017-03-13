@@ -1,0 +1,21 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ybiquitous/node-web-server.git",
+  "author": "ybiquitous <10koba01@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "nodemon": "*"
+  }
+}
